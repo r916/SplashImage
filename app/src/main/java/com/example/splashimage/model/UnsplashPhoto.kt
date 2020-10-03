@@ -1,4 +1,4 @@
-package com.example.splashimage
+package com.example.splashimage.model
 
 import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize
